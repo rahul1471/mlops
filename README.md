@@ -52,7 +52,7 @@
 
 ### Job5 Configuration: It will check the accurcy and if it does not meet the requirment, it will change the hyper-parameter of ML code and again train the model till the accuracy will rerach the required accuracy.
 
-![Job 5](/Screenshots/job5_1.jpg)
+![Job 5](/Screenshots/job5.jpg)
 
 ![Job 5](/Screenshots/job5_2.jpg)
 
